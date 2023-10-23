@@ -1,7 +1,6 @@
 package com.platzimarket.domain.repository;
 
 import com.platzimarket.persistence.entity.Producto;
-
 import java.util.List;
 import java.util.Optional;
 
